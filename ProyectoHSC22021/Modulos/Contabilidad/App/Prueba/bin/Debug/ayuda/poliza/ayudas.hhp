@@ -1,0 +1,18 @@
+[OPTIONS]
+Compatibility=1.1 or later
+Compiled file=ayudas.chm
+Contents file=ayudas.hhc
+Default Window=Ayudas
+Display compile progress=No
+Language=0xc0a Español (España, internacional)
+
+[WINDOWS]
+Ayudas="Ayudas para las pólizas","ayudas.hhc",,"Manual-de-usuario.html","Manual-de-Tecnico.html",,,,,0x23520,,0xc387e,,,,,,,,0
+
+
+[FILES]
+Manual-de-Tecnico.html
+Manual-de-usuario.html
+
+[INFOTYPES]
+

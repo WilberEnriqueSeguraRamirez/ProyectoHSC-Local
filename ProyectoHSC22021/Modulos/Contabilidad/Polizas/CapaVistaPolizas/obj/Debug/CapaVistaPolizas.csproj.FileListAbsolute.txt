@@ -42,3 +42,25 @@ C:\Users\HP\Desktop\MDI Wilber\ProyectoHSC22021\Modulos\Contabilidad\Polizas\Cap
 C:\Users\HP\Desktop\MDI Wilber\ProyectoHSC22021\Modulos\Contabilidad\Polizas\CapaVistaPolizas\obj\Debug\CapaVistaPolizas.csproj.CopyComplete
 C:\Users\HP\Desktop\MDI Wilber\ProyectoHSC22021\Modulos\Contabilidad\Polizas\CapaVistaPolizas\obj\Debug\CapaVistaPolizas.dll
 C:\Users\HP\Desktop\MDI Wilber\ProyectoHSC22021\Modulos\Contabilidad\Polizas\CapaVistaPolizas\obj\Debug\CapaVistaPolizas.pdb
+C:\Users\Gonza\OneDrive\Documents\Analisis2\ProyectoHSC-Local\ProyectoHSC22021\Modulos\Contabilidad\Polizas\CapaVistaPolizas\bin\Debug\CapaVistaPolizas.dll
+C:\Users\Gonza\OneDrive\Documents\Analisis2\ProyectoHSC-Local\ProyectoHSC22021\Modulos\Contabilidad\Polizas\CapaVistaPolizas\bin\Debug\CapaVistaPolizas.pdb
+C:\Users\Gonza\OneDrive\Documents\Analisis2\ProyectoHSC-Local\ProyectoHSC22021\Modulos\Contabilidad\Polizas\CapaVistaPolizas\bin\Debug\CapaControladorPolizas.dll
+C:\Users\Gonza\OneDrive\Documents\Analisis2\ProyectoHSC-Local\ProyectoHSC22021\Modulos\Contabilidad\Polizas\CapaVistaPolizas\bin\Debug\CapaModeloPolizas.dll
+C:\Users\Gonza\OneDrive\Documents\Analisis2\ProyectoHSC-Local\ProyectoHSC22021\Modulos\Contabilidad\Polizas\CapaVistaPolizas\bin\Debug\CapaControladorPolizas.pdb
+C:\Users\Gonza\OneDrive\Documents\Analisis2\ProyectoHSC-Local\ProyectoHSC22021\Modulos\Contabilidad\Polizas\CapaVistaPolizas\bin\Debug\CapaModeloPolizas.pdb
+C:\Users\Gonza\OneDrive\Documents\Analisis2\ProyectoHSC-Local\ProyectoHSC22021\Modulos\Contabilidad\Polizas\CapaVistaPolizas\obj\Debug\CapaVistaPolizas.csproj.AssemblyReference.cache
+C:\Users\Gonza\OneDrive\Documents\Analisis2\ProyectoHSC-Local\ProyectoHSC22021\Modulos\Contabilidad\Polizas\CapaVistaPolizas\obj\Debug\CapaVistaPolizas.frmCuenta.resources
+C:\Users\Gonza\OneDrive\Documents\Analisis2\ProyectoHSC-Local\ProyectoHSC22021\Modulos\Contabilidad\Polizas\CapaVistaPolizas\obj\Debug\CapaVistaPolizas.frmModificarCuenta.resources
+C:\Users\Gonza\OneDrive\Documents\Analisis2\ProyectoHSC-Local\ProyectoHSC22021\Modulos\Contabilidad\Polizas\CapaVistaPolizas\obj\Debug\CapaVistaPolizas.frmModificarPolizaDetalle.resources
+C:\Users\Gonza\OneDrive\Documents\Analisis2\ProyectoHSC-Local\ProyectoHSC22021\Modulos\Contabilidad\Polizas\CapaVistaPolizas\obj\Debug\CapaVistaPolizas.frmModificarPolizaEncabezado.resources
+C:\Users\Gonza\OneDrive\Documents\Analisis2\ProyectoHSC-Local\ProyectoHSC22021\Modulos\Contabilidad\Polizas\CapaVistaPolizas\obj\Debug\CapaVistaPolizas.frmPolizaDetalle.resources
+C:\Users\Gonza\OneDrive\Documents\Analisis2\ProyectoHSC-Local\ProyectoHSC22021\Modulos\Contabilidad\Polizas\CapaVistaPolizas\obj\Debug\CapaVistaPolizas.frmPolizaEncabezado.resources
+C:\Users\Gonza\OneDrive\Documents\Analisis2\ProyectoHSC-Local\ProyectoHSC22021\Modulos\Contabilidad\Polizas\CapaVistaPolizas\obj\Debug\CapaVistaPolizas.frmTipoCuenta.resources
+C:\Users\Gonza\OneDrive\Documents\Analisis2\ProyectoHSC-Local\ProyectoHSC22021\Modulos\Contabilidad\Polizas\CapaVistaPolizas\obj\Debug\CapaVistaPolizas.frmTipoOperacion.resources
+C:\Users\Gonza\OneDrive\Documents\Analisis2\ProyectoHSC-Local\ProyectoHSC22021\Modulos\Contabilidad\Polizas\CapaVistaPolizas\obj\Debug\CapaVistaPolizas.frmTipoPoliza.resources
+C:\Users\Gonza\OneDrive\Documents\Analisis2\ProyectoHSC-Local\ProyectoHSC22021\Modulos\Contabilidad\Polizas\CapaVistaPolizas\obj\Debug\CapaVistaPolizas.Properties.Resources.resources
+C:\Users\Gonza\OneDrive\Documents\Analisis2\ProyectoHSC-Local\ProyectoHSC22021\Modulos\Contabilidad\Polizas\CapaVistaPolizas\obj\Debug\CapaVistaPolizas.csproj.GenerateResource.cache
+C:\Users\Gonza\OneDrive\Documents\Analisis2\ProyectoHSC-Local\ProyectoHSC22021\Modulos\Contabilidad\Polizas\CapaVistaPolizas\obj\Debug\CapaVistaPolizas.csproj.CoreCompileInputs.cache
+C:\Users\Gonza\OneDrive\Documents\Analisis2\ProyectoHSC-Local\ProyectoHSC22021\Modulos\Contabilidad\Polizas\CapaVistaPolizas\obj\Debug\CapaVistaPolizas.csproj.CopyComplete
+C:\Users\Gonza\OneDrive\Documents\Analisis2\ProyectoHSC-Local\ProyectoHSC22021\Modulos\Contabilidad\Polizas\CapaVistaPolizas\obj\Debug\CapaVistaPolizas.dll
+C:\Users\Gonza\OneDrive\Documents\Analisis2\ProyectoHSC-Local\ProyectoHSC22021\Modulos\Contabilidad\Polizas\CapaVistaPolizas\obj\Debug\CapaVistaPolizas.pdb

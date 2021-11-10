@@ -176,5 +176,15 @@ namespace Vista
             frm7704.funActualizarUsuario(txtUsuario.Text);
             frm7704.Show();
         }
+
+        private void pólizasToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void polizasToolStripMenuItem1_Click(object sender, EventArgs e)
+        {
+            Help.ShowHelp(this, "ayuda/poliza/ayudas.chm", "ayuda/poliza/Manual-de-usuario.html");
+        }
     }
 }

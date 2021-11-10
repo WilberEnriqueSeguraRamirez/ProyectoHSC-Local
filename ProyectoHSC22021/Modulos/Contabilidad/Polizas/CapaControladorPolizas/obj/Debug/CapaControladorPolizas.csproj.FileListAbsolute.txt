@@ -7,3 +7,12 @@ C:\Users\HP\Desktop\Requerimiento Pólizas\Polizas\CapaControladorPolizas\obj\De
 C:\Users\HP\Desktop\Requerimiento Pólizas\Polizas\CapaControladorPolizas\bin\Debug\CapaModeloPolizas.dll
 C:\Users\HP\Desktop\Requerimiento Pólizas\Polizas\CapaControladorPolizas\bin\Debug\CapaModeloPolizas.pdb
 C:\Users\HP\Desktop\Requerimiento Pólizas\Polizas\CapaControladorPolizas\obj\Debug\CapaControladorPolizas.csproj.CopyComplete
+C:\Users\Gonza\OneDrive\Documents\Analisis2\ProyectoHSC-Local\ProyectoHSC22021\Modulos\Contabilidad\Polizas\CapaControladorPolizas\bin\Debug\CapaControladorPolizas.dll
+C:\Users\Gonza\OneDrive\Documents\Analisis2\ProyectoHSC-Local\ProyectoHSC22021\Modulos\Contabilidad\Polizas\CapaControladorPolizas\bin\Debug\CapaControladorPolizas.pdb
+C:\Users\Gonza\OneDrive\Documents\Analisis2\ProyectoHSC-Local\ProyectoHSC22021\Modulos\Contabilidad\Polizas\CapaControladorPolizas\bin\Debug\CapaModeloPolizas.dll
+C:\Users\Gonza\OneDrive\Documents\Analisis2\ProyectoHSC-Local\ProyectoHSC22021\Modulos\Contabilidad\Polizas\CapaControladorPolizas\bin\Debug\CapaModeloPolizas.pdb
+C:\Users\Gonza\OneDrive\Documents\Analisis2\ProyectoHSC-Local\ProyectoHSC22021\Modulos\Contabilidad\Polizas\CapaControladorPolizas\obj\Debug\CapaControladorPolizas.csproj.AssemblyReference.cache
+C:\Users\Gonza\OneDrive\Documents\Analisis2\ProyectoHSC-Local\ProyectoHSC22021\Modulos\Contabilidad\Polizas\CapaControladorPolizas\obj\Debug\CapaControladorPolizas.csproj.CoreCompileInputs.cache
+C:\Users\Gonza\OneDrive\Documents\Analisis2\ProyectoHSC-Local\ProyectoHSC22021\Modulos\Contabilidad\Polizas\CapaControladorPolizas\obj\Debug\CapaControladorPolizas.csproj.CopyComplete
+C:\Users\Gonza\OneDrive\Documents\Analisis2\ProyectoHSC-Local\ProyectoHSC22021\Modulos\Contabilidad\Polizas\CapaControladorPolizas\obj\Debug\CapaControladorPolizas.dll
+C:\Users\Gonza\OneDrive\Documents\Analisis2\ProyectoHSC-Local\ProyectoHSC22021\Modulos\Contabilidad\Polizas\CapaControladorPolizas\obj\Debug\CapaControladorPolizas.pdb

@@ -43,3 +43,12 @@ J:\uni\CHSC\copiarepolocal\ProyectoHSC22021\Modulos\Contabilidad\Controlador\obj
 J:\uni\CHSC\copiarepolocal\ProyectoHSC22021\Modulos\Contabilidad\Controlador\obj\Debug\Controlador.csproj.CopyComplete
 J:\uni\CHSC\copiarepolocal\ProyectoHSC22021\Modulos\Contabilidad\Controlador\obj\Debug\ControladorContabilidad.dll
 J:\uni\CHSC\copiarepolocal\ProyectoHSC22021\Modulos\Contabilidad\Controlador\obj\Debug\ControladorContabilidad.pdb
+C:\Users\Gonza\OneDrive\Documents\Analisis2\ProyectoHSC-Local\ProyectoHSC22021\Modulos\Contabilidad\Controlador\bin\Debug\ControladorContabilidad.dll
+C:\Users\Gonza\OneDrive\Documents\Analisis2\ProyectoHSC-Local\ProyectoHSC22021\Modulos\Contabilidad\Controlador\bin\Debug\ControladorContabilidad.pdb
+C:\Users\Gonza\OneDrive\Documents\Analisis2\ProyectoHSC-Local\ProyectoHSC22021\Modulos\Contabilidad\Controlador\bin\Debug\ModeloContabilidad.dll
+C:\Users\Gonza\OneDrive\Documents\Analisis2\ProyectoHSC-Local\ProyectoHSC22021\Modulos\Contabilidad\Controlador\bin\Debug\ModeloContabilidad.pdb
+C:\Users\Gonza\OneDrive\Documents\Analisis2\ProyectoHSC-Local\ProyectoHSC22021\Modulos\Contabilidad\Controlador\obj\Debug\Controlador.csproj.AssemblyReference.cache
+C:\Users\Gonza\OneDrive\Documents\Analisis2\ProyectoHSC-Local\ProyectoHSC22021\Modulos\Contabilidad\Controlador\obj\Debug\Controlador.csproj.CoreCompileInputs.cache
+C:\Users\Gonza\OneDrive\Documents\Analisis2\ProyectoHSC-Local\ProyectoHSC22021\Modulos\Contabilidad\Controlador\obj\Debug\Controlador.csproj.CopyComplete
+C:\Users\Gonza\OneDrive\Documents\Analisis2\ProyectoHSC-Local\ProyectoHSC22021\Modulos\Contabilidad\Controlador\obj\Debug\ControladorContabilidad.dll
+C:\Users\Gonza\OneDrive\Documents\Analisis2\ProyectoHSC-Local\ProyectoHSC22021\Modulos\Contabilidad\Controlador\obj\Debug\ControladorContabilidad.pdb
