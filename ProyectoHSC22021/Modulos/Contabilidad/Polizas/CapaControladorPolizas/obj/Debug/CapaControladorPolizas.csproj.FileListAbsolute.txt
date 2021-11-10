@@ -1,0 +1,9 @@
+C:\Users\HP\Desktop\Requerimiento Pólizas\Polizas\CapaControladorPolizas\bin\Debug\CapaControladorPolizas.dll
+C:\Users\HP\Desktop\Requerimiento Pólizas\Polizas\CapaControladorPolizas\bin\Debug\CapaControladorPolizas.pdb
+C:\Users\HP\Desktop\Requerimiento Pólizas\Polizas\CapaControladorPolizas\obj\Debug\CapaControladorPolizas.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\Requerimiento Pólizas\Polizas\CapaControladorPolizas\obj\Debug\CapaControladorPolizas.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Requerimiento Pólizas\Polizas\CapaControladorPolizas\obj\Debug\CapaControladorPolizas.dll
+C:\Users\HP\Desktop\Requerimiento Pólizas\Polizas\CapaControladorPolizas\obj\Debug\CapaControladorPolizas.pdb
+C:\Users\HP\Desktop\Requerimiento Pólizas\Polizas\CapaControladorPolizas\bin\Debug\CapaModeloPolizas.dll
+C:\Users\HP\Desktop\Requerimiento Pólizas\Polizas\CapaControladorPolizas\bin\Debug\CapaModeloPolizas.pdb
+C:\Users\HP\Desktop\Requerimiento Pólizas\Polizas\CapaControladorPolizas\obj\Debug\CapaControladorPolizas.csproj.CopyComplete

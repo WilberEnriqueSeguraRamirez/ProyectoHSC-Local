@@ -80,5 +80,69 @@ namespace Vista
         {
 
         }
+
+        private void ingresoTipoPólizaToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            CapaVistaPolizas.frmTipoPoliza formulario = new CapaVistaPolizas.frmTipoPoliza();
+            formulario.Show();
+            formulario.MdiParent = this;
+
+        }
+
+        private void ingresoEncabezadoToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            CapaVistaPolizas.frmPolizaEncabezado formulario = new CapaVistaPolizas.frmPolizaEncabezado();
+            formulario.Show();
+            formulario.MdiParent = this;
+        }
+
+        private void ingresoTipoCuentaToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            CapaVistaPolizas.frmTipoCuenta formulario = new CapaVistaPolizas.frmTipoCuenta();
+            formulario.Show();
+            formulario.MdiParent = this;
+        }
+
+        private void ingresoTipoOperaciónToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            CapaVistaPolizas.frmTipoOperacion formulario = new CapaVistaPolizas.frmTipoOperacion();
+            formulario.Show();
+            formulario.MdiParent = this;
+        }
+
+        private void detalleDePólizaToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            CapaVistaPolizas.frmPolizaDetalle formulario = new CapaVistaPolizas.frmPolizaDetalle();
+            formulario.Show();
+            formulario.MdiParent = this;
+        }
+
+        private void ingresoCuentaToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            CapaVistaPolizas.frmCuenta formulario = new CapaVistaPolizas.frmCuenta();
+            formulario.Show();
+            formulario.MdiParent = this;
+        }
+
+        private void modificarPólizaDetalleToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            CapaVistaPolizas.frmModificarPolizaDetalle formulario = new CapaVistaPolizas.frmModificarPolizaDetalle();
+            formulario.Show();
+            formulario.MdiParent = this;
+        }
+
+        private void modificarEncabezadoToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            CapaVistaPolizas.frmModificarPolizaEncabezado formulario = new CapaVistaPolizas.frmModificarPolizaEncabezado();
+            formulario.Show();
+            formulario.MdiParent = this;
+        }
+
+        private void modificarCuentaToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            CapaVistaPolizas.frmModificarCuenta formulario = new CapaVistaPolizas.frmModificarCuenta();
+            formulario.Show();
+            formulario.MdiParent = this;
+        }
     }
 }

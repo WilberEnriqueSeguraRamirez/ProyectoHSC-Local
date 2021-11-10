@@ -34,6 +34,9 @@
     <Reference Include="CapaVista">
       <HintPath>..\..\..\Componentes\ConsultasInteligentes\ConsultasInteligentes\consultasinteligentes\CapaVista\bin\Debug\CapaVista.dll</HintPath>
     </Reference>
+    <Reference Include="CapaVistaPolizas">
+      <HintPath>..\Polizas\CapaVistaPolizas\bin\Debug\CapaVistaPolizas.dll</HintPath>
+    </Reference>
     <Reference Include="CapaVistaReporte">
       <HintPath>..\..\..\Componentes\Reporteador\ComponenteReporteador\CapaVistaReporte\bin\Debug\CapaVistaReporte.dll</HintPath>
     </Reference>

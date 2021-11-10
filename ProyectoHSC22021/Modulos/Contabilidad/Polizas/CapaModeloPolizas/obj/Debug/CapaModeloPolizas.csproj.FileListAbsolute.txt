@@ -1,0 +1,6 @@
+C:\Users\HP\Desktop\Requerimiento Pólizas\Polizas\CapaModeloPolizas\bin\Debug\CapaModeloPolizas.dll
+C:\Users\HP\Desktop\Requerimiento Pólizas\Polizas\CapaModeloPolizas\bin\Debug\CapaModeloPolizas.pdb
+C:\Users\HP\Desktop\Requerimiento Pólizas\Polizas\CapaModeloPolizas\obj\Debug\CapaModeloPolizas.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\Requerimiento Pólizas\Polizas\CapaModeloPolizas\obj\Debug\CapaModeloPolizas.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Requerimiento Pólizas\Polizas\CapaModeloPolizas\obj\Debug\CapaModeloPolizas.dll
+C:\Users\HP\Desktop\Requerimiento Pólizas\Polizas\CapaModeloPolizas\obj\Debug\CapaModeloPolizas.pdb
