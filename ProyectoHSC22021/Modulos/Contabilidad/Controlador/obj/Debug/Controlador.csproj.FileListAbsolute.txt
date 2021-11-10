@@ -34,3 +34,12 @@ C:\Users\HP\Desktop\MDI Wilber\ProyectoHSC22021\Modulos\Contabilidad\Controlador
 C:\Users\HP\Desktop\MDI Wilber\ProyectoHSC22021\Modulos\Contabilidad\Controlador\obj\Debug\Controlador.csproj.CopyComplete
 C:\Users\HP\Desktop\MDI Wilber\ProyectoHSC22021\Modulos\Contabilidad\Controlador\obj\Debug\ControladorContabilidad.dll
 C:\Users\HP\Desktop\MDI Wilber\ProyectoHSC22021\Modulos\Contabilidad\Controlador\obj\Debug\ControladorContabilidad.pdb
+J:\uni\CHSC\copiarepolocal\ProyectoHSC22021\Modulos\Contabilidad\Controlador\bin\Debug\ControladorContabilidad.dll
+J:\uni\CHSC\copiarepolocal\ProyectoHSC22021\Modulos\Contabilidad\Controlador\bin\Debug\ControladorContabilidad.pdb
+J:\uni\CHSC\copiarepolocal\ProyectoHSC22021\Modulos\Contabilidad\Controlador\bin\Debug\ModeloContabilidad.dll
+J:\uni\CHSC\copiarepolocal\ProyectoHSC22021\Modulos\Contabilidad\Controlador\bin\Debug\ModeloContabilidad.pdb
+J:\uni\CHSC\copiarepolocal\ProyectoHSC22021\Modulos\Contabilidad\Controlador\obj\Debug\Controlador.csproj.AssemblyReference.cache
+J:\uni\CHSC\copiarepolocal\ProyectoHSC22021\Modulos\Contabilidad\Controlador\obj\Debug\Controlador.csproj.CoreCompileInputs.cache
+J:\uni\CHSC\copiarepolocal\ProyectoHSC22021\Modulos\Contabilidad\Controlador\obj\Debug\Controlador.csproj.CopyComplete
+J:\uni\CHSC\copiarepolocal\ProyectoHSC22021\Modulos\Contabilidad\Controlador\obj\Debug\ControladorContabilidad.dll
+J:\uni\CHSC\copiarepolocal\ProyectoHSC22021\Modulos\Contabilidad\Controlador\obj\Debug\ControladorContabilidad.pdb

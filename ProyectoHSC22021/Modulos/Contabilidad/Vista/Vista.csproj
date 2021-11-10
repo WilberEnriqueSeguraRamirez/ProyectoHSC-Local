@@ -50,6 +50,9 @@
       <SpecificVersion>False</SpecificVersion>
       <HintPath>..\..\..\Componentes\Navegador\DLLnav\DLLnav\bin\Debug\DLLnav.dll</HintPath>
     </Reference>
+    <Reference Include="MantenimientosContaJNLD">
+      <HintPath>..\Mantenimientos\MantenimientosContaJNLD\MantenimientosContaJNLD\bin\Debug\MantenimientosContaJNLD.dll</HintPath>
+    </Reference>
     <Reference Include="System" />
     <Reference Include="System.Core" />
     <Reference Include="System.Drawing" />
