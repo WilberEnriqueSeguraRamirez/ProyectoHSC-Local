@@ -1,0 +1,6 @@
+C:\Users\wilbe\OneDrive\Escritorio\RamaI\CierreContable\ControladorCierreContable\bin\Debug\ControladorCierreContable.dll
+C:\Users\wilbe\OneDrive\Escritorio\RamaI\CierreContable\ControladorCierreContable\bin\Debug\ControladorCierreContable.pdb
+C:\Users\wilbe\OneDrive\Escritorio\RamaI\CierreContable\ControladorCierreContable\obj\Debug\ControladorCierreContable.csproj.AssemblyReference.cache
+C:\Users\wilbe\OneDrive\Escritorio\RamaI\CierreContable\ControladorCierreContable\obj\Debug\ControladorCierreContable.csproj.CoreCompileInputs.cache
+C:\Users\wilbe\OneDrive\Escritorio\RamaI\CierreContable\ControladorCierreContable\obj\Debug\ControladorCierreContable.dll
+C:\Users\wilbe\OneDrive\Escritorio\RamaI\CierreContable\ControladorCierreContable\obj\Debug\ControladorCierreContable.pdb

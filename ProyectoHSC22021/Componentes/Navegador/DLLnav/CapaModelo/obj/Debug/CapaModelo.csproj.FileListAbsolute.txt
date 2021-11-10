@@ -1,0 +1,5 @@
+C:\Users\wilbe\OneDrive\Escritorio\Diagramas\ProyectoHSC22021\Componentes\Navegador\DLLnav\CapaModelo\bin\Debug\CapaModeloNav.dll
+C:\Users\wilbe\OneDrive\Escritorio\Diagramas\ProyectoHSC22021\Componentes\Navegador\DLLnav\CapaModelo\bin\Debug\CapaModeloNav.pdb
+C:\Users\wilbe\OneDrive\Escritorio\Diagramas\ProyectoHSC22021\Componentes\Navegador\DLLnav\CapaModelo\obj\Debug\CapaModelo.csproj.CoreCompileInputs.cache
+C:\Users\wilbe\OneDrive\Escritorio\Diagramas\ProyectoHSC22021\Componentes\Navegador\DLLnav\CapaModelo\obj\Debug\CapaModeloNav.dll
+C:\Users\wilbe\OneDrive\Escritorio\Diagramas\ProyectoHSC22021\Componentes\Navegador\DLLnav\CapaModelo\obj\Debug\CapaModeloNav.pdb
