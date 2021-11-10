@@ -144,5 +144,37 @@ namespace Vista
             formulario.Show();
             formulario.MdiParent = this;
         }
+
+        private void cuentasToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            MantenimientosContaJNLD.mantenimientoCuentas frm7701 = new MantenimientosContaJNLD.mantenimientoCuentas();
+            frm7701.MdiParent = this;
+            frm7701.funActualizarUsuario(txtUsuario.Text);
+            frm7701.Show();
+        }
+
+        private void tipoCuentaToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            MantenimientosContaJNLD.mantenimientoTipoCuenta frm7702 = new MantenimientosContaJNLD.mantenimientoTipoCuenta();
+            frm7702.MdiParent = this;
+            frm7702.funActualizarUsuario(txtUsuario.Text);
+            frm7702.Show();
+        }
+
+        private void tipoOperaciónToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            MantenimientosContaJNLD.mantenimientoTipoOperacion frm7703 = new MantenimientosContaJNLD.mantenimientoTipoOperacion();
+            frm7703.MdiParent = this;
+            frm7703.funActualizarUsuario(txtUsuario.Text);
+            frm7703.Show();
+        }
+
+        private void impuestosToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            MantenimientosContaJNLD.mantenimientoImpuestos frm7704 = new MantenimientosContaJNLD.mantenimientoImpuestos();
+            frm7704.MdiParent = this;
+            frm7704.funActualizarUsuario(txtUsuario.Text);
+            frm7704.Show();
+        }
     }
 }
