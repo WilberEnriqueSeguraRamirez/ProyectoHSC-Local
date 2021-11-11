@@ -41,9 +41,28 @@ insert into impuesto values
 USE hotelSanCarlos;
 
 insert into aplicacion values ("7301","7","Mantenimiento Presupuesto","1","","");
+insert into usuarioaplicacion values ("1","7301","1","1","1","1","1");
 
 #Ayuda
-update aplicacion set rutaChm = "C:\\Users\\user\\Desktop\\Proyecto HSC, Final Completo Contabilidad\\ProyectoHSC-Local\\ProyectoHSC22021\\Modulos\\Contabilidad\\App\\Prueba\\bin\\Debug\\ayuda\\presupuesto\\AyudaPresupuesto.chm", rutaHtml="C:\\Users\\user\\Desktop\\Proyecto HSC, Final Completo Contabilidad\\ProyectoHSC-Local\\ProyectoHSC22021\\Modulos\\Contabilidad\\App\\Prueba\\bin\\Debug\\ayuda\\presupuesto\\Manual-de-Técnico-Presupuesto.html" where pkId = "7301";
+update aplicacion set rutaChm = "C:\\Users\\alecz\\Desktop\\FINAL\\ProyectoHSC-Local\\ProyectoHSC22021\\Modulos\\Contabilidad\\App\\Prueba\\bin\\Debug\\ayuda\\presupuesto\\AyudaPresupuesto.chm", rutaHtml="C:\\Users\\alecz\\Desktop\\FINAL\\ProyectoHSC-Local\\ProyectoHSC22021\\Modulos\\Contabilidad\\App\\Prueba\\bin\\Debug\\ayuda\\presupuesto\\Manual-de-Técnico-Presupuesto.html" where pkId = "7301";
 
 #Reporte
-insert into reporte values ("7","7301","C:\\Users\\user\\Desktop\\Proyecto HSC, Final Completo Contabilidad\\ProyectoHSC-Local\\ProyectoHSC22021\\Modulos\\Contabilidad\\Presupuesto\\CapaVistaPresupuestos\\ReportePresupuesto.rpt","7301","A");
+insert into reporte values ("7","7301","C:\\Users\\alecz\\Desktop\\FINAL\\ProyectoHSC-Local\\ProyectoHSC22021\\Modulos\\Contabilidad\\Presupuesto\\CapaVistaPresupuestos\\ReportePresupuesto.rpt","7301","A");
+
+-- ---------------------------------------------------------------------------------------------------------------
+# LMD Permisos, Reporte, Ayuda - 	Gabriel Coyoy
+-- ---------------------------------------------------------------------------------------------------------------
+
+insert into aplicacion values ("7403","7","Mantenimiento Tipo Activo","1","","");
+insert into aplicacion values ("7404","7","Mantenimiento Activo","1","","");
+
+insert into usuarioaplicacion values ("1","7403","1","1","1","1","1");
+insert into usuarioaplicacion values ("1","7404","1","1","1","1","1");
+
+#Ayuda
+update aplicacion set rutaChm = "C:\\Users\\alecz\\Desktop\\FINAL\\ProyectoHSC-Local\\ProyectoHSC22021\\Modulos\\Contabilidad\\App\\Prueba\\bin\\Debug\\ayuda\\activosFijos\\AyudaActivosFijos.chm", rutaHtml="C:\\Users\\alecz\\Desktop\\FINAL\\ProyectoHSC-Local\\ProyectoHSC22021\\Modulos\\Contabilidad\\App\\Prueba\\bin\\Debug\\ayuda\\activosFijos\\Ayuda-mantenimiento-activo.html" where pkId = "7404";
+update aplicacion set rutaChm = "C:\\Users\\alecz\\Desktop\\FINAL\\ProyectoHSC-Local\\ProyectoHSC22021\\Modulos\\Contabilidad\\App\\Prueba\\bin\\Debug\\ayuda\\activosFijos\\AyudaActivosFijos2.chm", rutaHtml="C:\\Users\\alecz\\Desktop\\FINAL\\ProyectoHSC-Local\\ProyectoHSC22021\\Modulos\\Contabilidad\\App\\Prueba\\bin\\Debug\\ayuda\\activosFijos\\Ayuda-mantenimiento-tipo-activo.html" where pkId = "7403";
+
+#Reporte
+insert into reporte values ("9","7403","C:\\Users\\alecz\\Desktop\\FINAL\\ProyectoHSC-Local\\ProyectoHSC22021\\Modulos\\Contabilidad\\ActivosFijos\\CapaVistaActivosFijos\\RPTTipoActivo.rpt","7403","A");
+insert into reporte values ("11","7404","C:\\Users\\alecz\\Desktop\\FINAL\\ProyectoHSC-Local\\ProyectoHSC22021\\Modulos\\Contabilidad\\ActivosFijos\\CapaVistaActivosFijos\\RPTActivo.rpt","7404","A");

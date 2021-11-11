@@ -1,0 +1,17 @@
+[OPTIONS]
+Compatibility=1.1 or later
+Compiled file=AyudaActivosFijos.chm
+Contents file=AyudaActivosFijos.hhc
+Default Window=AyudaActivosFijos
+Display compile progress=No
+Language=0x100a Español (Guatemala)
+
+[WINDOWS]
+AyudaActivosFijos="AyudaActivosFijos","AyudaActivosFijos.hhc",,"..\Ayuda-mantenimiento-activo.html","..\Ayuda-mantenimiento-activo.html","..\Ayuda-mantenimiento-activo.html","AyudaActivosFijos","..\Ayuda-mantenimiento-activo.html","AyudaActivosFijos",0x23520,,0xc387e,,,,,,,,0
+
+
+[FILES]
+..\Ayuda-mantenimiento-activo.html
+
+[INFOTYPES]
+

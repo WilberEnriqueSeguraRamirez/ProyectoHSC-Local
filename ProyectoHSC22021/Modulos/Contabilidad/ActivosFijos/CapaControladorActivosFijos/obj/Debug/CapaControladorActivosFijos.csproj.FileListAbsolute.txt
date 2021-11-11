@@ -1,0 +1,9 @@
+C:\Users\alecz\Desktop\Proy\ActivosFijos\CapaControladorActivosFijos\bin\Debug\CapaControladorActivosFijos.dll
+C:\Users\alecz\Desktop\Proy\ActivosFijos\CapaControladorActivosFijos\bin\Debug\CapaControladorActivosFijos.pdb
+C:\Users\alecz\Desktop\Proy\ActivosFijos\CapaControladorActivosFijos\obj\Debug\CapaControladorActivosFijos.csproj.AssemblyReference.cache
+C:\Users\alecz\Desktop\Proy\ActivosFijos\CapaControladorActivosFijos\obj\Debug\CapaControladorActivosFijos.csproj.CoreCompileInputs.cache
+C:\Users\alecz\Desktop\Proy\ActivosFijos\CapaControladorActivosFijos\obj\Debug\CapaControladorActivosFijos.dll
+C:\Users\alecz\Desktop\Proy\ActivosFijos\CapaControladorActivosFijos\obj\Debug\CapaControladorActivosFijos.pdb
+C:\Users\alecz\Desktop\Proy\ActivosFijos\CapaControladorActivosFijos\bin\Debug\CapaModeloActivosFijos.dll
+C:\Users\alecz\Desktop\Proy\ActivosFijos\CapaControladorActivosFijos\bin\Debug\CapaModeloActivosFijos.pdb
+C:\Users\alecz\Desktop\Proy\ActivosFijos\CapaControladorActivosFijos\obj\Debug\CapaControladorActivosFijos.csproj.CopyComplete

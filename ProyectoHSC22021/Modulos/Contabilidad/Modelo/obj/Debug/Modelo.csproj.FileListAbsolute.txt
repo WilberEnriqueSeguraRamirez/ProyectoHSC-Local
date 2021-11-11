@@ -40,3 +40,9 @@ C:\Users\user\Desktop\Proyecto HSC, Final Completo Contabilidad\ProyectoHSC-Loca
 C:\Users\user\Desktop\Proyecto HSC, Final Completo Contabilidad\ProyectoHSC-Local\ProyectoHSC22021\Modulos\Contabilidad\Modelo\obj\Debug\Modelo.csproj.CoreCompileInputs.cache
 C:\Users\user\Desktop\Proyecto HSC, Final Completo Contabilidad\ProyectoHSC-Local\ProyectoHSC22021\Modulos\Contabilidad\Modelo\obj\Debug\ModeloContabilidad.dll
 C:\Users\user\Desktop\Proyecto HSC, Final Completo Contabilidad\ProyectoHSC-Local\ProyectoHSC22021\Modulos\Contabilidad\Modelo\obj\Debug\ModeloContabilidad.pdb
+C:\Users\alecz\Desktop\FINAL\ProyectoHSC-Local\ProyectoHSC22021\Modulos\Contabilidad\Modelo\bin\Debug\ModeloContabilidad.dll
+C:\Users\alecz\Desktop\FINAL\ProyectoHSC-Local\ProyectoHSC22021\Modulos\Contabilidad\Modelo\bin\Debug\ModeloContabilidad.pdb
+C:\Users\alecz\Desktop\FINAL\ProyectoHSC-Local\ProyectoHSC22021\Modulos\Contabilidad\Modelo\obj\Debug\Modelo.csproj.AssemblyReference.cache
+C:\Users\alecz\Desktop\FINAL\ProyectoHSC-Local\ProyectoHSC22021\Modulos\Contabilidad\Modelo\obj\Debug\Modelo.csproj.CoreCompileInputs.cache
+C:\Users\alecz\Desktop\FINAL\ProyectoHSC-Local\ProyectoHSC22021\Modulos\Contabilidad\Modelo\obj\Debug\ModeloContabilidad.dll
+C:\Users\alecz\Desktop\FINAL\ProyectoHSC-Local\ProyectoHSC22021\Modulos\Contabilidad\Modelo\obj\Debug\ModeloContabilidad.pdb

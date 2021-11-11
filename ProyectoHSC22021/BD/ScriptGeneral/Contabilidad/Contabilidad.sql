@@ -114,33 +114,34 @@ create table estadoSaldo(
 -- 							MÓDULO CONTABILIDAD - ACTIVOS FIJOS
 -- ------------------------------------------------------------------------------------------------------------
 
-CREATE TABLE activosFijos(
-	idActivo varchar(15),
-	nombreActivo varchar(100),
-	tipoActivo varchar (100),
-	descripcion varchar (100),
-    
-	primary key (idActivo)
+create table tipoActivo(
+	idTipoactivo varchar(10),
+    nombreTipoactivo varchar (45),
+    tasaDepreciacion float,
+    estado varchar(1),
+    primary key (idTipoactivo)
 )ENGINE = InnoDB DEFAULT CHARSET=latin1;
 
-CREATE TABLE depreciacionActivo(
-	idDepreciacion varchar (15),
-	idActivo varchar(50),
-	fechaAdquisicion date,
-	costoActvo decimal (10,0),
-	vidaUtil int,
-	mesesUso int,
-	cuotaDepreciacion decimal (10,0),
-	depreciacionAcumulada decimal (10,0),
-	valorNeto decimal (10,0),
-	fechaDepreciacion date,
-	primary key (idDepreciacion)
+create table activosFijos(
+	idActivo int,
+    nombreActivo varchar (45),
+    marca varchar (45),
+    modelo varchar (45),
+    descripcion varchar (45),
+    fkidTipoactivo varchar(10),
+    estado varchar(1),
+    primary key (idActivo),
+    foreign key (fkidTipoactivo) references tipoActivo (idTipoactivo)
 )ENGINE = InnoDB DEFAULT CHARSET=latin1;
 
-CREATE TABLE tipoActivo(
-	idTipoactivo varchar(15),
-	tipo varchar (100),
-	estado varchar(1),
-	
-	primary key (idTipoactivo)
+create table depreciacionActivo(
+	idDepreciacion int,
+	costoActivo float,
+    valorRescate float,
+    fechaAdquisicion date,
+    fechaDepreciacion date,
+    vidaUtil int,
+    idActivo int,
+    primary key (idDepreciacion),
+    foreign key (idActivo) references activosFijos (idActivo)
 )ENGINE = InnoDB DEFAULT CHARSET=latin1;

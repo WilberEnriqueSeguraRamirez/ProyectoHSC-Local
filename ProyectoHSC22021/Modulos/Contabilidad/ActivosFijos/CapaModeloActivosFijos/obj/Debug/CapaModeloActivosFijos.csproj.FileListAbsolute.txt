@@ -1,0 +1,6 @@
+C:\Users\alecz\Desktop\Proy\ActivosFijos\CapaModeloActivosFijos\bin\Debug\CapaModeloActivosFijos.dll
+C:\Users\alecz\Desktop\Proy\ActivosFijos\CapaModeloActivosFijos\bin\Debug\CapaModeloActivosFijos.pdb
+C:\Users\alecz\Desktop\Proy\ActivosFijos\CapaModeloActivosFijos\obj\Debug\CapaModeloActivosFijos.csproj.AssemblyReference.cache
+C:\Users\alecz\Desktop\Proy\ActivosFijos\CapaModeloActivosFijos\obj\Debug\CapaModeloActivosFijos.csproj.CoreCompileInputs.cache
+C:\Users\alecz\Desktop\Proy\ActivosFijos\CapaModeloActivosFijos\obj\Debug\CapaModeloActivosFijos.dll
+C:\Users\alecz\Desktop\Proy\ActivosFijos\CapaModeloActivosFijos\obj\Debug\CapaModeloActivosFijos.pdb

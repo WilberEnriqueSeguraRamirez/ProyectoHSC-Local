@@ -217,5 +217,21 @@ namespace Vista
             formulario.MdiParent = this;
             formulario.funActualizarUsuario(txtUsuario.Text);
         }
+
+        private void activosToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            CapaVistaActivosFijos.mantenimientoActivo formulario = new CapaVistaActivosFijos.mantenimientoActivo();
+            formulario.Show();
+            formulario.MdiParent = this;
+            formulario.funActualizarUsuario(txtUsuario.Text);
+        }
+
+        private void tipoActivoToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            CapaVistaActivosFijos.mantenimientoTipoactivo formulario = new CapaVistaActivosFijos.mantenimientoTipoactivo();
+            formulario.Show();
+            formulario.MdiParent = this;
+            formulario.funActualizarUsuario(txtUsuario.Text);
+        }
     }
 }
