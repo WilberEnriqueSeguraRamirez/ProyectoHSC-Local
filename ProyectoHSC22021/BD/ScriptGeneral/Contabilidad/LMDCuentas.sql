@@ -34,3 +34,16 @@ insert into impuesto values
 ('2','IGGS Empleador','0.1067','A'), #el jefe paga IGGS de 10.67% = 0.1067
 ('3','IGGS Empleado','0.0483','A'); #El iggs del empleado es de 4.83% = 0.0483
 -- Modificado el: 06/11/21 - 1PM - Jaime López
+
+-- ------------------------
+# LMD Reporte, Ayuda - 	Patrick Bernard
+-- ------------------------
+USE hotelSanCarlos;
+
+insert into aplicacion values ("7301","7","Mantenimiento Presupuesto","1","","");
+
+#Ayuda
+update aplicacion set rutaChm = "C:\\Users\\user\\Desktop\\Proyecto HSC, Final Completo Contabilidad\\ProyectoHSC-Local\\ProyectoHSC22021\\Modulos\\Contabilidad\\App\\Prueba\\bin\\Debug\\ayuda\\presupuesto\\AyudaPresupuesto.chm", rutaHtml="C:\\Users\\user\\Desktop\\Proyecto HSC, Final Completo Contabilidad\\ProyectoHSC-Local\\ProyectoHSC22021\\Modulos\\Contabilidad\\App\\Prueba\\bin\\Debug\\ayuda\\presupuesto\\Manual-de-Técnico-Presupuesto.html" where pkId = "7301";
+
+#Reporte
+insert into reporte values ("7","7301","C:\\Users\\user\\Desktop\\Proyecto HSC, Final Completo Contabilidad\\ProyectoHSC-Local\\ProyectoHSC22021\\Modulos\\Contabilidad\\Presupuesto\\CapaVistaPresupuestos\\ReportePresupuesto.rpt","7301","A");

@@ -1,0 +1,6 @@
+C:\Users\user\Desktop\Proyecto HSC, Presupuesto\Presupuestos\CapaModeloPresupuestos\bin\Debug\CapaModeloPresupuestos.dll
+C:\Users\user\Desktop\Proyecto HSC, Presupuesto\Presupuestos\CapaModeloPresupuestos\bin\Debug\CapaModeloPresupuestos.pdb
+C:\Users\user\Desktop\Proyecto HSC, Presupuesto\Presupuestos\CapaModeloPresupuestos\obj\Debug\CapaModeloPresupuestos.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Proyecto HSC, Presupuesto\Presupuestos\CapaModeloPresupuestos\obj\Debug\CapaModeloPresupuestos.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Proyecto HSC, Presupuesto\Presupuestos\CapaModeloPresupuestos\obj\Debug\CapaModeloPresupuestos.dll
+C:\Users\user\Desktop\Proyecto HSC, Presupuesto\Presupuestos\CapaModeloPresupuestos\obj\Debug\CapaModeloPresupuestos.pdb

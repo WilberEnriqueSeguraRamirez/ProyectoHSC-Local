@@ -1,0 +1,9 @@
+C:\Users\user\Desktop\Proyecto HSC, Presupuesto\Presupuestos\CapaControladorPresupuestos\bin\Debug\CapaControladorPresupuestos.dll
+C:\Users\user\Desktop\Proyecto HSC, Presupuesto\Presupuestos\CapaControladorPresupuestos\bin\Debug\CapaControladorPresupuestos.pdb
+C:\Users\user\Desktop\Proyecto HSC, Presupuesto\Presupuestos\CapaControladorPresupuestos\obj\Debug\CapaControladorPresupuestos.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Proyecto HSC, Presupuesto\Presupuestos\CapaControladorPresupuestos\obj\Debug\CapaControladorPresupuestos.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Proyecto HSC, Presupuesto\Presupuestos\CapaControladorPresupuestos\obj\Debug\CapaControladorPresupuestos.dll
+C:\Users\user\Desktop\Proyecto HSC, Presupuesto\Presupuestos\CapaControladorPresupuestos\obj\Debug\CapaControladorPresupuestos.pdb
+C:\Users\user\Desktop\Proyecto HSC, Presupuesto\Presupuestos\CapaControladorPresupuestos\bin\Debug\CapaModeloPresupuestos.dll
+C:\Users\user\Desktop\Proyecto HSC, Presupuesto\Presupuestos\CapaControladorPresupuestos\bin\Debug\CapaModeloPresupuestos.pdb
+C:\Users\user\Desktop\Proyecto HSC, Presupuesto\Presupuestos\CapaControladorPresupuestos\obj\Debug\CapaControladorPresupuestos.csproj.CopyComplete

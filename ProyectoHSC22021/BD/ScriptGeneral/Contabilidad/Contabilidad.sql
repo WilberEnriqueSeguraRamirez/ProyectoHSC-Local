@@ -61,10 +61,12 @@ primary key (idAjusteContable)
 create table presupuesto(
 	idPresupuesto varchar(15),
 	nomPresupuesto varchar(20),
-	fechaPresupuesto date,
-	ingresoPresupuesto int,
-	gastoPresupuesto int,
-	totalPresupuesto int,
+	anioPresupuesto varchar(20),
+    mesPresupuesto varchar(20),
+	ingresoPresupuesto float,
+	gastoPresupuesto float,
+	totalPresupuesto float,
+    estadoPresupuesto varchar(1),
     
 	primary key (idPresupuesto)
 )ENGINE = InnoDB DEFAULT CHARSET=latin1;

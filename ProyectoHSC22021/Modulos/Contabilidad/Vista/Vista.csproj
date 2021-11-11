@@ -40,6 +40,9 @@
     <Reference Include="CapaVistaPolizas">
       <HintPath>..\Polizas\CapaVistaPolizas\bin\Debug\CapaVistaPolizas.dll</HintPath>
     </Reference>
+    <Reference Include="CapaVistaPresupuestos">
+      <HintPath>..\Presupuesto\CapaVistaPresupuestos\bin\Debug\CapaVistaPresupuestos.dll</HintPath>
+    </Reference>
     <Reference Include="CapaVistaReporte">
       <HintPath>..\..\..\Componentes\Reporteador\ComponenteReporteador\CapaVistaReporte\bin\Debug\CapaVistaReporte.dll</HintPath>
     </Reference>

@@ -209,5 +209,13 @@ namespace Vista
         {
             Help.ShowHelp(this, "ayuda/estadosFinancieros/AyudaEstadosFinancieros1.chm", "ayuda/estadosFinancieros/Manuel-Tecnico-Estados-Financieros.html");
         }
+
+        private void mantenimientoToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            CapaVistaPresupuestos.frmPresupuesto formulario = new CapaVistaPresupuestos.frmPresupuesto();
+            formulario.Show();
+            formulario.MdiParent = this;
+            formulario.funActualizarUsuario(txtUsuario.Text);
+        }
     }
 }

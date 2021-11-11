@@ -1,0 +1,18 @@
+[OPTIONS]
+Compatibility=1.1 or later
+Compiled file=AyudaPresupuesto.chm
+Contents file=AyudaPresupuesto.hhc
+Default Window=AyudaPresupuesto
+Display compile progress=No
+Language=0x100a Español (Guatemala)
+
+[WINDOWS]
+AyudaPresupuesto="AyudaPresupuesto","AyudaPresupuesto.hhc",,"..\Proyecto HSC, Final Completo Contabilidad\ProyectoHSC-Local\ProyectoHSC22021\Modulos\Contabilidad\App\Prueba\bin\Debug\ayuda\presupuesto\Manual-de-Usuario-Presupuesto.html","..\Proyecto HSC, Final Completo Contabilidad\ProyectoHSC-Local\ProyectoHSC22021\Modulos\Contabilidad\App\Prueba\bin\Debug\ayuda\presupuesto\Manual-de-Usuario-Presupuesto.html","..\Proyecto HSC, Final Completo Contabilidad\ProyectoHSC-Local\ProyectoHSC22021\Modulos\Contabilidad\App\Prueba\bin\Debug\ayuda\presupuesto\Manual-de-Usuario-Presupuesto.html","AyudaPresupuestoUsuario","..\Proyecto HSC, Final Completo Contabilidad\ProyectoHSC-Local\ProyectoHSC22021\Modulos\Contabilidad\App\Prueba\bin\Debug\ayuda\presupuesto\Manual-de-Técnico-Presupuesto.html","AyudaPresupuestoTecnico",0x23520,,0xc387e,,,,,,,,0
+
+
+[FILES]
+..\Proyecto HSC, Final Completo Contabilidad\ProyectoHSC-Local\ProyectoHSC22021\Modulos\Contabilidad\App\Prueba\bin\Debug\ayuda\presupuesto\Manual-de-Usuario-Presupuesto.html
+..\Proyecto HSC, Final Completo Contabilidad\ProyectoHSC-Local\ProyectoHSC22021\Modulos\Contabilidad\App\Prueba\bin\Debug\ayuda\presupuesto\Manual-de-Técnico-Presupuesto.html
+
+[INFOTYPES]
+
