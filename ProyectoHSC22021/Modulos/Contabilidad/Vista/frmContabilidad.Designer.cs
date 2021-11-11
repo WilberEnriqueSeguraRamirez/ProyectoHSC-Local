@@ -58,6 +58,8 @@ namespace Vista
             this.presupuestosToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.mantenimientoToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.activosFijosToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.activosToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.tipoActivoToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.estadosFinancierosToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.ingresoActividadToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.cierreContableToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
@@ -67,8 +69,6 @@ namespace Vista
             this.tipoOperaciónToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.impuestosToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.txtUsuario = new System.Windows.Forms.TextBox();
-            this.activosToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
-            this.tipoActivoToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.menuStrip1.SuspendLayout();
             this.SuspendLayout();
             // 
@@ -294,7 +294,7 @@ namespace Vista
             // mantenimientoToolStripMenuItem
             // 
             this.mantenimientoToolStripMenuItem.Name = "mantenimientoToolStripMenuItem";
-            this.mantenimientoToolStripMenuItem.Size = new System.Drawing.Size(224, 26);
+            this.mantenimientoToolStripMenuItem.Size = new System.Drawing.Size(193, 26);
             this.mantenimientoToolStripMenuItem.Text = "Mantenimiento";
             this.mantenimientoToolStripMenuItem.Click += new System.EventHandler(this.mantenimientoToolStripMenuItem_Click);
             // 
@@ -306,6 +306,20 @@ namespace Vista
             this.activosFijosToolStripMenuItem.Name = "activosFijosToolStripMenuItem";
             this.activosFijosToolStripMenuItem.Size = new System.Drawing.Size(105, 24);
             this.activosFijosToolStripMenuItem.Text = "Activos Fijos";
+            // 
+            // activosToolStripMenuItem
+            // 
+            this.activosToolStripMenuItem.Name = "activosToolStripMenuItem";
+            this.activosToolStripMenuItem.Size = new System.Drawing.Size(168, 26);
+            this.activosToolStripMenuItem.Text = "Activos";
+            this.activosToolStripMenuItem.Click += new System.EventHandler(this.activosToolStripMenuItem_Click);
+            // 
+            // tipoActivoToolStripMenuItem
+            // 
+            this.tipoActivoToolStripMenuItem.Name = "tipoActivoToolStripMenuItem";
+            this.tipoActivoToolStripMenuItem.Size = new System.Drawing.Size(168, 26);
+            this.tipoActivoToolStripMenuItem.Text = "Tipo Activo";
+            this.tipoActivoToolStripMenuItem.Click += new System.EventHandler(this.tipoActivoToolStripMenuItem_Click);
             // 
             // estadosFinancierosToolStripMenuItem
             // 
@@ -327,6 +341,7 @@ namespace Vista
             this.cierreContableToolStripMenuItem.Name = "cierreContableToolStripMenuItem";
             this.cierreContableToolStripMenuItem.Size = new System.Drawing.Size(126, 24);
             this.cierreContableToolStripMenuItem.Text = "Cierre Contable";
+            this.cierreContableToolStripMenuItem.Click += new System.EventHandler(this.cierreContableToolStripMenuItem_Click);
             // 
             // mantenimientosToolStripMenuItem
             // 
@@ -374,20 +389,6 @@ namespace Vista
             this.txtUsuario.Name = "txtUsuario";
             this.txtUsuario.Size = new System.Drawing.Size(100, 22);
             this.txtUsuario.TabIndex = 3;
-            // 
-            // activosToolStripMenuItem
-            // 
-            this.activosToolStripMenuItem.Name = "activosToolStripMenuItem";
-            this.activosToolStripMenuItem.Size = new System.Drawing.Size(224, 26);
-            this.activosToolStripMenuItem.Text = "Activos";
-            this.activosToolStripMenuItem.Click += new System.EventHandler(this.activosToolStripMenuItem_Click);
-            // 
-            // tipoActivoToolStripMenuItem
-            // 
-            this.tipoActivoToolStripMenuItem.Name = "tipoActivoToolStripMenuItem";
-            this.tipoActivoToolStripMenuItem.Size = new System.Drawing.Size(224, 26);
-            this.tipoActivoToolStripMenuItem.Text = "Tipo Activo";
-            this.tipoActivoToolStripMenuItem.Click += new System.EventHandler(this.tipoActivoToolStripMenuItem_Click);
             // 
             // frmContabilidad
             // 

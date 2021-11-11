@@ -9,6 +9,8 @@ using System.Threading.Tasks;
 using System.Windows.Forms;
 using CapaVistaSeguridadHSC;
 using CapaVistaReporte;
+using VistaCierreContable;
+
 
 namespace Vista
 {
@@ -232,6 +234,13 @@ namespace Vista
             formulario.Show();
             formulario.MdiParent = this;
             formulario.funActualizarUsuario(txtUsuario.Text);
+        }
+
+        private void cierreContableToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            VistaCierreContable.frmIngreso formulario = new VistaCierreContable.frmIngreso();
+            formulario.Show();
+            formulario.MdiParent = this;
         }
     }
 }

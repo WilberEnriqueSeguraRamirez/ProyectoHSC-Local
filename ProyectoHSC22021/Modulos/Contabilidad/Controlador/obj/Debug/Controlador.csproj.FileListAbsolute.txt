@@ -79,3 +79,12 @@ C:\Users\alecz\Desktop\FINAL\ProyectoHSC-Local\ProyectoHSC22021\Modulos\Contabil
 C:\Users\alecz\Desktop\FINAL\ProyectoHSC-Local\ProyectoHSC22021\Modulos\Contabilidad\Controlador\obj\Debug\Controlador.csproj.CopyComplete
 C:\Users\alecz\Desktop\FINAL\ProyectoHSC-Local\ProyectoHSC22021\Modulos\Contabilidad\Controlador\obj\Debug\ControladorContabilidad.dll
 C:\Users\alecz\Desktop\FINAL\ProyectoHSC-Local\ProyectoHSC22021\Modulos\Contabilidad\Controlador\obj\Debug\ControladorContabilidad.pdb
+C:\Users\wilbe\OneDrive\Escritorio\RepPersonal\ProyectoHSC22021\Modulos\Contabilidad\Controlador\bin\Debug\ControladorContabilidad.dll
+C:\Users\wilbe\OneDrive\Escritorio\RepPersonal\ProyectoHSC22021\Modulos\Contabilidad\Controlador\bin\Debug\ControladorContabilidad.pdb
+C:\Users\wilbe\OneDrive\Escritorio\RepPersonal\ProyectoHSC22021\Modulos\Contabilidad\Controlador\bin\Debug\ModeloContabilidad.dll
+C:\Users\wilbe\OneDrive\Escritorio\RepPersonal\ProyectoHSC22021\Modulos\Contabilidad\Controlador\bin\Debug\ModeloContabilidad.pdb
+C:\Users\wilbe\OneDrive\Escritorio\RepPersonal\ProyectoHSC22021\Modulos\Contabilidad\Controlador\obj\Debug\Controlador.csproj.AssemblyReference.cache
+C:\Users\wilbe\OneDrive\Escritorio\RepPersonal\ProyectoHSC22021\Modulos\Contabilidad\Controlador\obj\Debug\Controlador.csproj.CoreCompileInputs.cache
+C:\Users\wilbe\OneDrive\Escritorio\RepPersonal\ProyectoHSC22021\Modulos\Contabilidad\Controlador\obj\Debug\Controlador.csproj.CopyComplete
+C:\Users\wilbe\OneDrive\Escritorio\RepPersonal\ProyectoHSC22021\Modulos\Contabilidad\Controlador\obj\Debug\ControladorContabilidad.dll
+C:\Users\wilbe\OneDrive\Escritorio\RepPersonal\ProyectoHSC22021\Modulos\Contabilidad\Controlador\obj\Debug\ControladorContabilidad.pdb

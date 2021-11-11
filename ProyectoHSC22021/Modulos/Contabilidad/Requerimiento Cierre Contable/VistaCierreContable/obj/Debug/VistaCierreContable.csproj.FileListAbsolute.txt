@@ -4,3 +4,13 @@ C:\Users\wilbe\OneDrive\Escritorio\RamaI\CierreContable\VistaCierreContable\obj\
 C:\Users\wilbe\OneDrive\Escritorio\RamaI\CierreContable\VistaCierreContable\obj\Debug\VistaCierreContable.csproj.CoreCompileInputs.cache
 C:\Users\wilbe\OneDrive\Escritorio\RamaI\CierreContable\VistaCierreContable\obj\Debug\VistaCierreContable.dll
 C:\Users\wilbe\OneDrive\Escritorio\RamaI\CierreContable\VistaCierreContable\obj\Debug\VistaCierreContable.pdb
+C:\Users\wilbe\OneDrive\Escritorio\RepPersonal\ProyectoHSC22021\Modulos\Contabilidad\Requerimiento Cierre Contable\VistaCierreContable\bin\Debug\VistaCierreContable.dll
+C:\Users\wilbe\OneDrive\Escritorio\RepPersonal\ProyectoHSC22021\Modulos\Contabilidad\Requerimiento Cierre Contable\VistaCierreContable\bin\Debug\VistaCierreContable.pdb
+C:\Users\wilbe\OneDrive\Escritorio\RepPersonal\ProyectoHSC22021\Modulos\Contabilidad\Requerimiento Cierre Contable\VistaCierreContable\obj\Debug\VistaCierreContable.csproj.AssemblyReference.cache
+C:\Users\wilbe\OneDrive\Escritorio\RepPersonal\ProyectoHSC22021\Modulos\Contabilidad\Requerimiento Cierre Contable\VistaCierreContable\obj\Debug\VistaCierreContable.frmCierrecontable.resources
+C:\Users\wilbe\OneDrive\Escritorio\RepPersonal\ProyectoHSC22021\Modulos\Contabilidad\Requerimiento Cierre Contable\VistaCierreContable\obj\Debug\VistaCierreContable.frmIngreso.resources
+C:\Users\wilbe\OneDrive\Escritorio\RepPersonal\ProyectoHSC22021\Modulos\Contabilidad\Requerimiento Cierre Contable\VistaCierreContable\obj\Debug\VistaCierreContable.csproj.GenerateResource.cache
+C:\Users\wilbe\OneDrive\Escritorio\RepPersonal\ProyectoHSC22021\Modulos\Contabilidad\Requerimiento Cierre Contable\VistaCierreContable\obj\Debug\VistaCierreContable.csproj.CoreCompileInputs.cache
+C:\Users\wilbe\OneDrive\Escritorio\RepPersonal\ProyectoHSC22021\Modulos\Contabilidad\Requerimiento Cierre Contable\VistaCierreContable\obj\Debug\VistaCierreContable.dll
+C:\Users\wilbe\OneDrive\Escritorio\RepPersonal\ProyectoHSC22021\Modulos\Contabilidad\Requerimiento Cierre Contable\VistaCierreContable\obj\Debug\VistaCierreContable.pdb
+C:\Users\wilbe\OneDrive\Escritorio\RepPersonal\ProyectoHSC22021\Modulos\Contabilidad\Requerimiento Cierre Contable\VistaCierreContable\obj\Debug\VistaCierreContable.Properties.Resources.resources

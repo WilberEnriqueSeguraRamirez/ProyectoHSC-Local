@@ -4,3 +4,9 @@ C:\Users\wilbe\OneDrive\Escritorio\RamaI\CierreContable\ControladorCierreContabl
 C:\Users\wilbe\OneDrive\Escritorio\RamaI\CierreContable\ControladorCierreContable\obj\Debug\ControladorCierreContable.csproj.CoreCompileInputs.cache
 C:\Users\wilbe\OneDrive\Escritorio\RamaI\CierreContable\ControladorCierreContable\obj\Debug\ControladorCierreContable.dll
 C:\Users\wilbe\OneDrive\Escritorio\RamaI\CierreContable\ControladorCierreContable\obj\Debug\ControladorCierreContable.pdb
+C:\Users\wilbe\OneDrive\Escritorio\RepPersonal\ProyectoHSC22021\Modulos\Contabilidad\Requerimiento Cierre Contable\ControladorCierreContable\bin\Debug\ControladorCierreContable.dll
+C:\Users\wilbe\OneDrive\Escritorio\RepPersonal\ProyectoHSC22021\Modulos\Contabilidad\Requerimiento Cierre Contable\ControladorCierreContable\bin\Debug\ControladorCierreContable.pdb
+C:\Users\wilbe\OneDrive\Escritorio\RepPersonal\ProyectoHSC22021\Modulos\Contabilidad\Requerimiento Cierre Contable\ControladorCierreContable\obj\Debug\ControladorCierreContable.csproj.AssemblyReference.cache
+C:\Users\wilbe\OneDrive\Escritorio\RepPersonal\ProyectoHSC22021\Modulos\Contabilidad\Requerimiento Cierre Contable\ControladorCierreContable\obj\Debug\ControladorCierreContable.csproj.CoreCompileInputs.cache
+C:\Users\wilbe\OneDrive\Escritorio\RepPersonal\ProyectoHSC22021\Modulos\Contabilidad\Requerimiento Cierre Contable\ControladorCierreContable\obj\Debug\ControladorCierreContable.dll
+C:\Users\wilbe\OneDrive\Escritorio\RepPersonal\ProyectoHSC22021\Modulos\Contabilidad\Requerimiento Cierre Contable\ControladorCierreContable\obj\Debug\ControladorCierreContable.pdb

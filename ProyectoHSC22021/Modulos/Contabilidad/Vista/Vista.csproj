@@ -72,6 +72,9 @@
     <Reference Include="System.Data" />
     <Reference Include="System.Net.Http" />
     <Reference Include="System.Xml" />
+    <Reference Include="VistaCierreContable">
+      <HintPath>..\Requerimiento Cierre Contable\VistaCierreContable\bin\Debug\VistaCierreContable.dll</HintPath>
+    </Reference>
   </ItemGroup>
   <ItemGroup>
     <Compile Include="frmContabilidad.cs">

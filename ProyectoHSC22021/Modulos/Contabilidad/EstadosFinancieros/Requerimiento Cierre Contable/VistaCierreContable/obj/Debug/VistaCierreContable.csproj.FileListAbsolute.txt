@@ -1,0 +1,6 @@
+C:\Users\wilbe\OneDrive\Escritorio\RamaI\CierreContable\VistaCierreContable\bin\Debug\VistaCierreContable.dll
+C:\Users\wilbe\OneDrive\Escritorio\RamaI\CierreContable\VistaCierreContable\bin\Debug\VistaCierreContable.pdb
+C:\Users\wilbe\OneDrive\Escritorio\RamaI\CierreContable\VistaCierreContable\obj\Debug\VistaCierreContable.csproj.AssemblyReference.cache
+C:\Users\wilbe\OneDrive\Escritorio\RamaI\CierreContable\VistaCierreContable\obj\Debug\VistaCierreContable.csproj.CoreCompileInputs.cache
+C:\Users\wilbe\OneDrive\Escritorio\RamaI\CierreContable\VistaCierreContable\obj\Debug\VistaCierreContable.dll
+C:\Users\wilbe\OneDrive\Escritorio\RamaI\CierreContable\VistaCierreContable\obj\Debug\VistaCierreContable.pdb
