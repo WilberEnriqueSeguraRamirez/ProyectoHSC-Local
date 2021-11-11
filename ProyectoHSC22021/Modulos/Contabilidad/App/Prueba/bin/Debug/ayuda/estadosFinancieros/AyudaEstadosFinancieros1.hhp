@@ -1,0 +1,17 @@
+[OPTIONS]
+Compatibility=1.1 or later
+Compiled file=AyudaEstadosFinancieros1.chm
+Contents file=AyudaEstadosFinancieros1.hhc
+Default Window=AyudaEstadosFinancieros1
+Display compile progress=No
+Language=0x100a Español (Guatemala)
+
+[WINDOWS]
+AyudaEstadosFinancieros1="AyudaEstadosFinancieros1","AyudaEstadosFinancieros1.hhc",,"..\Manuel-Tecnico-Estados-Financieros.html","..\Manuel-Tecnico-Estados-Financieros.html","..\Manuel-Tecnico-Estados-Financieros.html","AyudaEstadosFinancieros1","..\Manuel-Tecnico-Estados-Financieros.html","AyudaEstadosFinancieros1",0x23520,,0xc387e,,,,,,,,0
+
+
+[FILES]
+..\Manuel-Tecnico-Estados-Financieros.html
+
+[INFOTYPES]
+

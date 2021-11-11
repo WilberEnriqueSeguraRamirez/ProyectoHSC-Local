@@ -1,0 +1,28 @@
+C:\Users\kikhe\OneDrive\Escritorio\Proyecto Individual\EstadosFinancieros\CapaVistaEstadosFinancieros\bin\Debug\CapaVistaEstadosFinancieros.dll
+C:\Users\kikhe\OneDrive\Escritorio\Proyecto Individual\EstadosFinancieros\CapaVistaEstadosFinancieros\bin\Debug\CapaVistaEstadosFinancieros.pdb
+C:\Users\kikhe\OneDrive\Escritorio\Proyecto Individual\EstadosFinancieros\CapaVistaEstadosFinancieros\obj\Debug\CapaVistaEstadosFinancieros.csproj.AssemblyReference.cache
+C:\Users\kikhe\OneDrive\Escritorio\Proyecto Individual\EstadosFinancieros\CapaVistaEstadosFinancieros\obj\Debug\CapaVistaEstadosFinancieros.csproj.CoreCompileInputs.cache
+C:\Users\kikhe\OneDrive\Escritorio\Proyecto Individual\EstadosFinancieros\CapaVistaEstadosFinancieros\obj\Debug\CapaVistaEstadosFinancieros.dll
+C:\Users\kikhe\OneDrive\Escritorio\Proyecto Individual\EstadosFinancieros\CapaVistaEstadosFinancieros\obj\Debug\CapaVistaEstadosFinancieros.pdb
+C:\Users\kikhe\OneDrive\Escritorio\Proyecto Individual\EstadosFinancieros\CapaVistaEstadosFinancieros\bin\Debug\CapaControladorEstadosFinancieros.dll
+C:\Users\kikhe\OneDrive\Escritorio\Proyecto Individual\EstadosFinancieros\CapaVistaEstadosFinancieros\bin\Debug\CapaControladorEstadosFinancieros.pdb
+C:\Users\kikhe\OneDrive\Escritorio\Proyecto Individual\EstadosFinancieros\CapaVistaEstadosFinancieros\obj\Debug\CapaVistaEstadosFinancieros.csproj.CopyComplete
+C:\Users\kikhe\OneDrive\Escritorio\Proyecto Individual\EstadosFinancieros\CapaVistaEstadosFinancieros\bin\Debug\CapaModeloEstadosFinancieros.dll
+C:\Users\kikhe\OneDrive\Escritorio\Proyecto Individual\EstadosFinancieros\CapaVistaEstadosFinancieros\bin\Debug\CapaModeloEstadosFinancieros.pdb
+C:\Users\kikhe\OneDrive\Escritorio\Proyecto Individual\EstadosFinancieros\CapaVistaEstadosFinancieros\obj\Debug\CapaVistaEstadosFinancieros.frmIngresarUsuario.resources
+C:\Users\kikhe\OneDrive\Escritorio\Proyecto Individual\EstadosFinancieros\CapaVistaEstadosFinancieros\obj\Debug\CapaVistaEstadosFinancieros.Properties.Resources.resources
+C:\Users\kikhe\OneDrive\Escritorio\Proyecto Individual\EstadosFinancieros\CapaVistaEstadosFinancieros\obj\Debug\CapaVistaEstadosFinancieros.csproj.GenerateResource.cache
+C:\Users\kikhe\OneDrive\Escritorio\xd\ProyectoHSC-Local\ProyectoHSC22021\Modulos\Contabilidad\EstadosFinancieros\CapaVistaEstadosFinancieros\bin\Debug\CapaVistaEstadosFinancieros.dll
+C:\Users\kikhe\OneDrive\Escritorio\xd\ProyectoHSC-Local\ProyectoHSC22021\Modulos\Contabilidad\EstadosFinancieros\CapaVistaEstadosFinancieros\bin\Debug\CapaVistaEstadosFinancieros.pdb
+C:\Users\kikhe\OneDrive\Escritorio\xd\ProyectoHSC-Local\ProyectoHSC22021\Modulos\Contabilidad\EstadosFinancieros\CapaVistaEstadosFinancieros\bin\Debug\CapaControladorEstadosFinancieros.dll
+C:\Users\kikhe\OneDrive\Escritorio\xd\ProyectoHSC-Local\ProyectoHSC22021\Modulos\Contabilidad\EstadosFinancieros\CapaVistaEstadosFinancieros\bin\Debug\CapaModeloEstadosFinancieros.dll
+C:\Users\kikhe\OneDrive\Escritorio\xd\ProyectoHSC-Local\ProyectoHSC22021\Modulos\Contabilidad\EstadosFinancieros\CapaVistaEstadosFinancieros\bin\Debug\CapaControladorEstadosFinancieros.pdb
+C:\Users\kikhe\OneDrive\Escritorio\xd\ProyectoHSC-Local\ProyectoHSC22021\Modulos\Contabilidad\EstadosFinancieros\CapaVistaEstadosFinancieros\bin\Debug\CapaModeloEstadosFinancieros.pdb
+C:\Users\kikhe\OneDrive\Escritorio\xd\ProyectoHSC-Local\ProyectoHSC22021\Modulos\Contabilidad\EstadosFinancieros\CapaVistaEstadosFinancieros\obj\Debug\CapaVistaEstadosFinancieros.csproj.AssemblyReference.cache
+C:\Users\kikhe\OneDrive\Escritorio\xd\ProyectoHSC-Local\ProyectoHSC22021\Modulos\Contabilidad\EstadosFinancieros\CapaVistaEstadosFinancieros\obj\Debug\CapaVistaEstadosFinancieros.frmIngresarUsuario.resources
+C:\Users\kikhe\OneDrive\Escritorio\xd\ProyectoHSC-Local\ProyectoHSC22021\Modulos\Contabilidad\EstadosFinancieros\CapaVistaEstadosFinancieros\obj\Debug\CapaVistaEstadosFinancieros.Properties.Resources.resources
+C:\Users\kikhe\OneDrive\Escritorio\xd\ProyectoHSC-Local\ProyectoHSC22021\Modulos\Contabilidad\EstadosFinancieros\CapaVistaEstadosFinancieros\obj\Debug\CapaVistaEstadosFinancieros.csproj.GenerateResource.cache
+C:\Users\kikhe\OneDrive\Escritorio\xd\ProyectoHSC-Local\ProyectoHSC22021\Modulos\Contabilidad\EstadosFinancieros\CapaVistaEstadosFinancieros\obj\Debug\CapaVistaEstadosFinancieros.csproj.CoreCompileInputs.cache
+C:\Users\kikhe\OneDrive\Escritorio\xd\ProyectoHSC-Local\ProyectoHSC22021\Modulos\Contabilidad\EstadosFinancieros\CapaVistaEstadosFinancieros\obj\Debug\CapaVistaEstadosFinancieros.csproj.CopyComplete
+C:\Users\kikhe\OneDrive\Escritorio\xd\ProyectoHSC-Local\ProyectoHSC22021\Modulos\Contabilidad\EstadosFinancieros\CapaVistaEstadosFinancieros\obj\Debug\CapaVistaEstadosFinancieros.dll
+C:\Users\kikhe\OneDrive\Escritorio\xd\ProyectoHSC-Local\ProyectoHSC22021\Modulos\Contabilidad\EstadosFinancieros\CapaVistaEstadosFinancieros\obj\Debug\CapaVistaEstadosFinancieros.pdb

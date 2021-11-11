@@ -1,0 +1,11 @@
+C:\Users\kikhe\OneDrive\Escritorio\Proyecto Individual\EstadosFinancieros\CapaModeloEstadosFinancieros\bin\Debug\CapaModeloEstadosFinancieros.dll
+C:\Users\kikhe\OneDrive\Escritorio\Proyecto Individual\EstadosFinancieros\CapaModeloEstadosFinancieros\bin\Debug\CapaModeloEstadosFinancieros.pdb
+C:\Users\kikhe\OneDrive\Escritorio\Proyecto Individual\EstadosFinancieros\CapaModeloEstadosFinancieros\obj\Debug\CapaModeloEstadosFinancieros.csproj.AssemblyReference.cache
+C:\Users\kikhe\OneDrive\Escritorio\Proyecto Individual\EstadosFinancieros\CapaModeloEstadosFinancieros\obj\Debug\CapaModeloEstadosFinancieros.csproj.CoreCompileInputs.cache
+C:\Users\kikhe\OneDrive\Escritorio\Proyecto Individual\EstadosFinancieros\CapaModeloEstadosFinancieros\obj\Debug\CapaModeloEstadosFinancieros.dll
+C:\Users\kikhe\OneDrive\Escritorio\Proyecto Individual\EstadosFinancieros\CapaModeloEstadosFinancieros\obj\Debug\CapaModeloEstadosFinancieros.pdb
+C:\Users\kikhe\OneDrive\Escritorio\xd\ProyectoHSC-Local\ProyectoHSC22021\Modulos\Contabilidad\EstadosFinancieros\CapaModeloEstadosFinancieros\bin\Debug\CapaModeloEstadosFinancieros.dll
+C:\Users\kikhe\OneDrive\Escritorio\xd\ProyectoHSC-Local\ProyectoHSC22021\Modulos\Contabilidad\EstadosFinancieros\CapaModeloEstadosFinancieros\bin\Debug\CapaModeloEstadosFinancieros.pdb
+C:\Users\kikhe\OneDrive\Escritorio\xd\ProyectoHSC-Local\ProyectoHSC22021\Modulos\Contabilidad\EstadosFinancieros\CapaModeloEstadosFinancieros\obj\Debug\CapaModeloEstadosFinancieros.csproj.CoreCompileInputs.cache
+C:\Users\kikhe\OneDrive\Escritorio\xd\ProyectoHSC-Local\ProyectoHSC22021\Modulos\Contabilidad\EstadosFinancieros\CapaModeloEstadosFinancieros\obj\Debug\CapaModeloEstadosFinancieros.dll
+C:\Users\kikhe\OneDrive\Escritorio\xd\ProyectoHSC-Local\ProyectoHSC22021\Modulos\Contabilidad\EstadosFinancieros\CapaModeloEstadosFinancieros\obj\Debug\CapaModeloEstadosFinancieros.pdb

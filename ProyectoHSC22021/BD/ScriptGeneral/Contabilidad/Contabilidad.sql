@@ -89,13 +89,14 @@ create table reporteEstado(
 	primary key (idReporteEstado)
 )ENGINE = InnoDB DEFAULT CHARSET=latin1;
 
-create table estadoIngreso(
-	idEstadoIngreso varchar(15),
-	fechaIngreso date,
-	saldoAcumulado float,
-	estado varchar(1),
+create table registroActividad(
+	idActividad varchar(45),
+	nombreActividad varchar(45),
+	credito varchar(45),
+    debito Varchar(45),
+    fecha date,
 
-	primary key (idEstadoIngreso)
+	primary key (idActividad)
 )ENGINE = InnoDB DEFAULT CHARSET=latin1;
 
 create table estadoSaldo(

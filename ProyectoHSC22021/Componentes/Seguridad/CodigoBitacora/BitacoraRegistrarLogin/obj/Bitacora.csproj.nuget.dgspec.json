@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\wilbe\\OneDrive\\Escritorio\\Diagramas\\ProyectoHSC22021\\Componentes\\Seguridad\\CodigoBitacora\\BitacoraRegistrarLogin\\Bitacora.csproj": {}
+    "C:\\Users\\kikhe\\OneDrive\\Escritorio\\xd\\ProyectoHSC-Local\\ProyectoHSC22021\\Componentes\\Seguridad\\CodigoBitacora\\BitacoraRegistrarLogin\\Bitacora.csproj": {}
   },
   "projects": {
-    "C:\\Users\\wilbe\\OneDrive\\Escritorio\\Diagramas\\ProyectoHSC22021\\Componentes\\Seguridad\\CodigoBitacora\\BitacoraRegistrarLogin\\Bitacora.csproj": {
+    "C:\\Users\\kikhe\\OneDrive\\Escritorio\\xd\\ProyectoHSC-Local\\ProyectoHSC22021\\Componentes\\Seguridad\\CodigoBitacora\\BitacoraRegistrarLogin\\Bitacora.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\wilbe\\OneDrive\\Escritorio\\Diagramas\\ProyectoHSC22021\\Componentes\\Seguridad\\CodigoBitacora\\BitacoraRegistrarLogin\\Bitacora.csproj",
+        "projectUniqueName": "C:\\Users\\kikhe\\OneDrive\\Escritorio\\xd\\ProyectoHSC-Local\\ProyectoHSC22021\\Componentes\\Seguridad\\CodigoBitacora\\BitacoraRegistrarLogin\\Bitacora.csproj",
         "projectName": "Bitacora",
-        "projectPath": "C:\\Users\\wilbe\\OneDrive\\Escritorio\\Diagramas\\ProyectoHSC22021\\Componentes\\Seguridad\\CodigoBitacora\\BitacoraRegistrarLogin\\Bitacora.csproj",
-        "packagesPath": "C:\\Users\\wilbe\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\wilbe\\OneDrive\\Escritorio\\Diagramas\\ProyectoHSC22021\\Componentes\\Seguridad\\CodigoBitacora\\BitacoraRegistrarLogin\\obj\\",
+        "projectPath": "C:\\Users\\kikhe\\OneDrive\\Escritorio\\xd\\ProyectoHSC-Local\\ProyectoHSC22021\\Componentes\\Seguridad\\CodigoBitacora\\BitacoraRegistrarLogin\\Bitacora.csproj",
+        "packagesPath": "C:\\Users\\kikhe\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\kikhe\\OneDrive\\Escritorio\\xd\\ProyectoHSC-Local\\ProyectoHSC22021\\Componentes\\Seguridad\\CodigoBitacora\\BitacoraRegistrarLogin\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\wilbe\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\kikhe\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [

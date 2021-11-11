@@ -33,6 +33,7 @@ namespace Vista
             this.menuStrip1 = new System.Windows.Forms.MenuStrip();
             this.inicioToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.ayudaGeneralToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.polizasToolStripMenuItem1 = new System.Windows.Forms.ToolStripMenuItem();
             this.herramientasToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.reporteadorToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.consultasInteligentesToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
@@ -61,7 +62,10 @@ namespace Vista
             this.tipoOperaciónToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.impuestosToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.txtUsuario = new System.Windows.Forms.TextBox();
-            this.polizasToolStripMenuItem1 = new System.Windows.Forms.ToolStripMenuItem();
+            this.ingresoActividadToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.estadosFinancierosToolStripMenuItem1 = new System.Windows.Forms.ToolStripMenuItem();
+            this.manualDeUsuarioToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.manualTécnicoToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.menuStrip1.SuspendLayout();
             this.SuspendLayout();
             // 
@@ -79,7 +83,7 @@ namespace Vista
             this.menuStrip1.Location = new System.Drawing.Point(0, 0);
             this.menuStrip1.Name = "menuStrip1";
             this.menuStrip1.Padding = new System.Windows.Forms.Padding(5, 2, 0, 2);
-            this.menuStrip1.Size = new System.Drawing.Size(1819, 28);
+            this.menuStrip1.Size = new System.Drawing.Size(1819, 30);
             this.menuStrip1.TabIndex = 1;
             this.menuStrip1.Text = "menuStrip1";
             // 
@@ -92,17 +96,25 @@ namespace Vista
             this.salirToolStripMenuItem});
             this.inicioToolStripMenuItem.Font = new System.Drawing.Font("Segoe UI", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.inicioToolStripMenuItem.Name = "inicioToolStripMenuItem";
-            this.inicioToolStripMenuItem.Size = new System.Drawing.Size(59, 24);
+            this.inicioToolStripMenuItem.Size = new System.Drawing.Size(59, 26);
             this.inicioToolStripMenuItem.Text = "Inicio";
             // 
             // ayudaGeneralToolStripMenuItem
             // 
             this.ayudaGeneralToolStripMenuItem.DropDownItems.AddRange(new System.Windows.Forms.ToolStripItem[] {
-            this.polizasToolStripMenuItem1});
+            this.polizasToolStripMenuItem1,
+            this.estadosFinancierosToolStripMenuItem1});
             this.ayudaGeneralToolStripMenuItem.Name = "ayudaGeneralToolStripMenuItem";
             this.ayudaGeneralToolStripMenuItem.Size = new System.Drawing.Size(224, 26);
             this.ayudaGeneralToolStripMenuItem.Text = "Ayuda General";
             this.ayudaGeneralToolStripMenuItem.Click += new System.EventHandler(this.ayudaGeneralToolStripMenuItem_Click);
+            // 
+            // polizasToolStripMenuItem1
+            // 
+            this.polizasToolStripMenuItem1.Name = "polizasToolStripMenuItem1";
+            this.polizasToolStripMenuItem1.Size = new System.Drawing.Size(224, 26);
+            this.polizasToolStripMenuItem1.Text = "Polizas";
+            this.polizasToolStripMenuItem1.Click += new System.EventHandler(this.polizasToolStripMenuItem1_Click);
             // 
             // herramientasToolStripMenuItem
             // 
@@ -178,7 +190,7 @@ namespace Vista
             this.modificarEncabezadoToolStripMenuItem,
             this.modificarCuentaToolStripMenuItem});
             this.polizasToolStripMenuItem.Name = "polizasToolStripMenuItem";
-            this.polizasToolStripMenuItem.Size = new System.Drawing.Size(68, 24);
+            this.polizasToolStripMenuItem.Size = new System.Drawing.Size(68, 26);
             this.polizasToolStripMenuItem.Text = "Polizas";
             // 
             // ingresoTipoPólizaToolStripMenuItem
@@ -247,25 +259,27 @@ namespace Vista
             // presupuestosToolStripMenuItem
             // 
             this.presupuestosToolStripMenuItem.Name = "presupuestosToolStripMenuItem";
-            this.presupuestosToolStripMenuItem.Size = new System.Drawing.Size(109, 24);
+            this.presupuestosToolStripMenuItem.Size = new System.Drawing.Size(109, 26);
             this.presupuestosToolStripMenuItem.Text = "Presupuestos";
             // 
             // activosFijosToolStripMenuItem
             // 
             this.activosFijosToolStripMenuItem.Name = "activosFijosToolStripMenuItem";
-            this.activosFijosToolStripMenuItem.Size = new System.Drawing.Size(105, 24);
+            this.activosFijosToolStripMenuItem.Size = new System.Drawing.Size(105, 26);
             this.activosFijosToolStripMenuItem.Text = "Activos Fijos";
             // 
             // estadosFinancierosToolStripMenuItem
             // 
+            this.estadosFinancierosToolStripMenuItem.DropDownItems.AddRange(new System.Windows.Forms.ToolStripItem[] {
+            this.ingresoActividadToolStripMenuItem});
             this.estadosFinancierosToolStripMenuItem.Name = "estadosFinancierosToolStripMenuItem";
-            this.estadosFinancierosToolStripMenuItem.Size = new System.Drawing.Size(152, 24);
+            this.estadosFinancierosToolStripMenuItem.Size = new System.Drawing.Size(152, 26);
             this.estadosFinancierosToolStripMenuItem.Text = "Estados Financieros";
             // 
             // cierreContableToolStripMenuItem
             // 
             this.cierreContableToolStripMenuItem.Name = "cierreContableToolStripMenuItem";
-            this.cierreContableToolStripMenuItem.Size = new System.Drawing.Size(126, 24);
+            this.cierreContableToolStripMenuItem.Size = new System.Drawing.Size(126, 26);
             this.cierreContableToolStripMenuItem.Text = "Cierre Contable";
             // 
             // mantenimientosToolStripMenuItem
@@ -276,7 +290,7 @@ namespace Vista
             this.tipoOperaciónToolStripMenuItem,
             this.impuestosToolStripMenuItem});
             this.mantenimientosToolStripMenuItem.Name = "mantenimientosToolStripMenuItem";
-            this.mantenimientosToolStripMenuItem.Size = new System.Drawing.Size(130, 24);
+            this.mantenimientosToolStripMenuItem.Size = new System.Drawing.Size(130, 26);
             this.mantenimientosToolStripMenuItem.Text = "Mantenimientos";
             // 
             // cuentasToolStripMenuItem
@@ -315,12 +329,36 @@ namespace Vista
             this.txtUsuario.Size = new System.Drawing.Size(100, 22);
             this.txtUsuario.TabIndex = 3;
             // 
-            // polizasToolStripMenuItem1
+            // ingresoActividadToolStripMenuItem
             // 
-            this.polizasToolStripMenuItem1.Name = "polizasToolStripMenuItem1";
-            this.polizasToolStripMenuItem1.Size = new System.Drawing.Size(224, 26);
-            this.polizasToolStripMenuItem1.Text = "Polizas";
-            this.polizasToolStripMenuItem1.Click += new System.EventHandler(this.polizasToolStripMenuItem1_Click);
+            this.ingresoActividadToolStripMenuItem.Name = "ingresoActividadToolStripMenuItem";
+            this.ingresoActividadToolStripMenuItem.Size = new System.Drawing.Size(224, 26);
+            this.ingresoActividadToolStripMenuItem.Text = "Ingreso Actividad";
+            this.ingresoActividadToolStripMenuItem.Click += new System.EventHandler(this.ingresoActividadToolStripMenuItem_Click);
+            // 
+            // estadosFinancierosToolStripMenuItem1
+            // 
+            this.estadosFinancierosToolStripMenuItem1.DropDownItems.AddRange(new System.Windows.Forms.ToolStripItem[] {
+            this.manualDeUsuarioToolStripMenuItem,
+            this.manualTécnicoToolStripMenuItem});
+            this.estadosFinancierosToolStripMenuItem1.Name = "estadosFinancierosToolStripMenuItem1";
+            this.estadosFinancierosToolStripMenuItem1.Size = new System.Drawing.Size(224, 26);
+            this.estadosFinancierosToolStripMenuItem1.Text = "Estados Financieros";
+            this.estadosFinancierosToolStripMenuItem1.Click += new System.EventHandler(this.estadosFinancierosToolStripMenuItem1_Click);
+            // 
+            // manualDeUsuarioToolStripMenuItem
+            // 
+            this.manualDeUsuarioToolStripMenuItem.Name = "manualDeUsuarioToolStripMenuItem";
+            this.manualDeUsuarioToolStripMenuItem.Size = new System.Drawing.Size(224, 26);
+            this.manualDeUsuarioToolStripMenuItem.Text = "Manual de Usuario";
+            this.manualDeUsuarioToolStripMenuItem.Click += new System.EventHandler(this.manualDeUsuarioToolStripMenuItem_Click);
+            // 
+            // manualTécnicoToolStripMenuItem
+            // 
+            this.manualTécnicoToolStripMenuItem.Name = "manualTécnicoToolStripMenuItem";
+            this.manualTécnicoToolStripMenuItem.Size = new System.Drawing.Size(224, 26);
+            this.manualTécnicoToolStripMenuItem.Text = "Manual Técnico";
+            this.manualTécnicoToolStripMenuItem.Click += new System.EventHandler(this.manualTécnicoToolStripMenuItem_Click);
             // 
             // frmContabilidad
             // 
@@ -380,5 +418,9 @@ namespace Vista
         private System.Windows.Forms.ToolStripMenuItem tipoOperaciónToolStripMenuItem;
         private System.Windows.Forms.ToolStripMenuItem impuestosToolStripMenuItem;
         private System.Windows.Forms.ToolStripMenuItem polizasToolStripMenuItem1;
+        private System.Windows.Forms.ToolStripMenuItem ingresoActividadToolStripMenuItem;
+        private System.Windows.Forms.ToolStripMenuItem estadosFinancierosToolStripMenuItem1;
+        private System.Windows.Forms.ToolStripMenuItem manualDeUsuarioToolStripMenuItem;
+        private System.Windows.Forms.ToolStripMenuItem manualTécnicoToolStripMenuItem;
     }
 }

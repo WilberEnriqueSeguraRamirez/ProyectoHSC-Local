@@ -186,5 +186,28 @@ namespace Vista
         {
             Help.ShowHelp(this, "ayuda/poliza/ayudas.chm", "ayuda/poliza/Manual-de-usuario.html");
         }
+
+        private void ingresoActividadToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            CapaVistaEstadosFinancieros.frmIngresarUsuario formulario = new CapaVistaEstadosFinancieros.frmIngresarUsuario();
+            formulario.Show();
+            formulario.MdiParent = this;
+        }
+
+        private void estadosFinancierosToolStripMenuItem1_Click(object sender, EventArgs e)
+        {
+    
+           
+        }
+
+        private void manualDeUsuarioToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            Help.ShowHelp(this, "ayuda/estadosFinancieros/AyudaEstadosFinancieros.chm", "ayuda/estadosFinancieros/Manual-de-Usuario-Estados-Financieros.html");
+        }
+
+        private void manualTécnicoToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            Help.ShowHelp(this, "ayuda/estadosFinancieros/AyudaEstadosFinancieros1.chm", "ayuda/estadosFinancieros/Manuel-Tecnico-Estados-Financieros.html");
+        }
     }
 }

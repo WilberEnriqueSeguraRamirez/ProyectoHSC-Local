@@ -28,3 +28,9 @@ J:\uni\CHSC\copiarepolocal\ProyectoHSC22021\Modulos\Contabilidad\Modelo\obj\Debu
 J:\uni\CHSC\copiarepolocal\ProyectoHSC22021\Modulos\Contabilidad\Modelo\obj\Debug\Modelo.csproj.CoreCompileInputs.cache
 J:\uni\CHSC\copiarepolocal\ProyectoHSC22021\Modulos\Contabilidad\Modelo\obj\Debug\ModeloContabilidad.dll
 J:\uni\CHSC\copiarepolocal\ProyectoHSC22021\Modulos\Contabilidad\Modelo\obj\Debug\ModeloContabilidad.pdb
+C:\Users\kikhe\OneDrive\Escritorio\xd\ProyectoHSC-Local\ProyectoHSC22021\Modulos\Contabilidad\Modelo\bin\Debug\ModeloContabilidad.dll
+C:\Users\kikhe\OneDrive\Escritorio\xd\ProyectoHSC-Local\ProyectoHSC22021\Modulos\Contabilidad\Modelo\bin\Debug\ModeloContabilidad.pdb
+C:\Users\kikhe\OneDrive\Escritorio\xd\ProyectoHSC-Local\ProyectoHSC22021\Modulos\Contabilidad\Modelo\obj\Debug\Modelo.csproj.AssemblyReference.cache
+C:\Users\kikhe\OneDrive\Escritorio\xd\ProyectoHSC-Local\ProyectoHSC22021\Modulos\Contabilidad\Modelo\obj\Debug\Modelo.csproj.CoreCompileInputs.cache
+C:\Users\kikhe\OneDrive\Escritorio\xd\ProyectoHSC-Local\ProyectoHSC22021\Modulos\Contabilidad\Modelo\obj\Debug\ModeloContabilidad.dll
+C:\Users\kikhe\OneDrive\Escritorio\xd\ProyectoHSC-Local\ProyectoHSC22021\Modulos\Contabilidad\Modelo\obj\Debug\ModeloContabilidad.pdb
